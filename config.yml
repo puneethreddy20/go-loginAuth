@@ -1,0 +1,9 @@
+base:
+      http_address: :8080
+
+      storage_url: "./userinfo.db"
+
+      templates_path: templates
+
+      greetingAPI_host: http://172.18.0.20:8000/greetings
+
