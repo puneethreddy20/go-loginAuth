@@ -1,4 +1,4 @@
-#How to build and run the application:
+# How to build and run the application:
 
 To run the application you would need docker installed (or) can use build and run directly. Install docker first.
 Unzip the package
